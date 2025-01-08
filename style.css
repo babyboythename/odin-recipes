@@ -1,0 +1,26 @@
+/* came back to add some css as instructed from the css cascade lesson */
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+body {
+    background-color: lightslategray;
+
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 50;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+ul {
+    font-size: 20px;
+
+}
